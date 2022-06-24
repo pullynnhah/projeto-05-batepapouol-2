@@ -51,4 +51,4 @@ const message = {
 };
 
 const container = document.querySelector(".container");
-renderLogin();
+// renderLogin();
